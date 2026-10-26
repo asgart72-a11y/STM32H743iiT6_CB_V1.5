@@ -1,5 +1,5 @@
 # STM32H743IIT6 Core Board V1.5 - LTDC Pin Mapping
-
+NICHT Vollständig!!!!!!
 This list shows the hardware pin assignment between the 40-pin FFC/FPC display connector and the STM32H743IIT6 microcontroller MCU, verified via direct GPIO toggling.
 
 ## 1. Control & Timing Signals
